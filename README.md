@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Некорректный подсчёт общей суммы баланса в приложении Money Transfer](https://github.com/ElenaVedernikova/Project_J_1_2_1/issues/1)
+* [Некорректный подсчёт бонусного коэффициента в приложении Precision](https://github.com/ElenaVedernikova/Project_J_1_2_2/issues/11)
 
 ## Описание процесса тестирования
 
