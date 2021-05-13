@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Некорректный подсчёт бонусного коэффициента в приложении Precision](https://github.com/ElenaVedernikova/Project_J_1_2_2/issues/11)
+* [Некорректный подсчёт бонусного коэффициента в приложении Precision](https://github.com/ElenaVedernikova/Project_J_1_2_2/issues/1)
 
 ## Описание процесса тестирования
 
